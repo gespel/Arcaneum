@@ -1,0 +1,12 @@
+main: arcaneum.Arcaneum
+author: Sten Heimbrodt
+version: 1.0
+name: Arcaneum
+api-version: 1.20
+commands:
+  credits:
+    description: shows credits
+    usage: /credits
+  home:
+    description: teleports home
+    usage: /home
